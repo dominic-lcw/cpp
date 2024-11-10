@@ -1,0 +1,17 @@
+# Ignore compiled executables
+main
+
+# Ignore debugging symbols directories
+*.dSYM/
+
+# Ignore object files
+*.o
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore build directories
+build/
+bin/
+.vscode/settings.json
