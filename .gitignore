@@ -1,5 +1,7 @@
 # Ignore compiled executables
 main
+demo
+mydb
 
 # Ignore debugging symbols directories
 *.dSYM/
