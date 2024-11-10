@@ -1,8 +1,7 @@
 // FILE: main.cpp
 #include "../include/mydb.h"
 
-int main()
-{
+int demo() {
   printUserInput();
   return 0;
 }
