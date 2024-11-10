@@ -7,8 +7,8 @@ void printUserInput()
   std::cout << "Hello World!!" << std::endl;
 }
 
-// int main()
-// {
-//   printUserInput();
-//   return 0;
-// }
+int main()
+{
+  printUserInput();
+  return 0;
+}
